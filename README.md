@@ -1,2 +1,2 @@
-# mondekids
-proyecto 1
+# Monde kids
+Web platform for english courses.
